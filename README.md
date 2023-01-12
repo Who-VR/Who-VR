@@ -56,5 +56,5 @@ This project aims to reconstruct one of the most important port cities of the ci
 [YouTube]([https://www.youtube.com/watch?v=juc3msgLMoc](https://www.youtube.com/watch?v=juc3msgLMoc))
 
 #### Evaluation Criteria
-Markdown Methodology on their open-source project (Contribution to their existing repository)
+Proposal Methodology
 
